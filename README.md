@@ -8,7 +8,7 @@ This is a basic hello world app that allows background and text color changes, i
 
 ### App Walk-though
 
-<img src="C:\Users\deand\Coding\facebook app.gif" width=200><br>
+<img src= C:\Users\deand\Coding\facebook app.gif width=200><br>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
